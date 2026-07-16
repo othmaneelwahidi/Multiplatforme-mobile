@@ -1,0 +1,19 @@
+# Dart and Flutter
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Operating system metadata
+.DS_Store
+._*
+
+# Local secrets
+.env
+*.env
